@@ -21,4 +21,4 @@ The algorithms and thier classifiers are as follows:
 Each algorithm has its strengths and weaknesses, but we needed to make sure we used the one that would work best for OUR needs. 
 
 ## Summary
-The Random Forest Classifier, as shown above, had the best F1 score, whcih shows the best combination of Precision and Sensitivity. 
+The Random Forest Classifier, as shown above, had the best F1 score, whcih shows the best combination of Precision and Sensitivity. Since our Precision was VERY close or equal on all of our algorithms, the sensitivity shows the variance between them. The Random Forest Classifier gave us the highest sensitivity, and the fewest missed high-risk loans. This algorithm was able to better predict the high-risk loans, so this is the one I recommend moving forward.
