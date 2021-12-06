@@ -16,6 +16,9 @@ The algorithms and thier classifiers are as follows:
 - **Random Forest Classifier** - a series of yes/no decision trees meant to test the importance of each variable in relation to the high/low risk outcome
 - ![alt text](https://github.com/Jlew112/Credit_Risk_Analysis/blob/main/Challenge/RandomForestClassificationReport.PNG?raw=true)
 - **Easy Ensemble AdaBoost Classifier** - a combination of many different smaller algorithms
-- ![alt text](https://github.com/Jlew112/Credit_Risk_Analysis/blob/main/Challenge/EasyEnsembleClassiciationReport.PNG?raw=true)
+- ![alt text](https://github.com/Jlew112/Credit_Risk_Analysis/blob/main/EasyEnsembleClassiciationReport.PNG?raw=true)
 
 Each algorithm has its strengths and weaknesses, but we needed to make sure we used the one that would work best for OUR needs. 
+
+## Summary
+The Random Forest Classifier, as shown above, had the best F1 score, whcih shows the best combination of Precision and Sensitivity. 
